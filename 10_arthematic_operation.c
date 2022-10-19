@@ -10,4 +10,4 @@ int main()
       printf("\nremainder: %d",a%b);
 
     return 0;
-}
+// code ended here 
